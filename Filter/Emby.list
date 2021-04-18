@@ -5,3 +5,43 @@
 DOMAIN-SUFFIX,emby.wtf,Emby
 DOMAIN-SUFFIX,plusmedia.site,Emby
 DOMAIN-SUFFIX,mickeycloud.com,Emby
+
+# > 流媒体emby-paoche服务器
+DOMAIN,emby.cjpc.xyz,Emby
+DOMAIN,emby.paoche.ooo,Emby
+# > 流媒体emby-flowercloud服务器
+DOMAIN,emby.flowercloud.yt,Emby
+# > 流媒体emby-maying服务器
+DOMAIN,emby.maying.club,Emby
+# > 流媒体emby-mdss服务器
+DOMAIN,emby.mdss.cloud,Emby
+# > 流媒体emby-nexitally服务器
+DOMAIN,emby.nexitally.com,Emby
+# > 流媒体emby-ytoo服务器
+DOMAIN,emby.ytoo.li,Emby
+# > 流媒体emby-w8ves服务器
+DOMAIN,embyserver.ga,Emby
+# > 流媒体emby-prpr服务器
+DOMAIN,emby.prprcloud.com,Emby
+# > 流媒体emby-nyancat服务器
+DOMAIN,emby.nyancat.net,Emby
+# > 流媒体emby-Plus体验服
+DOMAIN,emby.plusmedia.site,Emby
+DOMAIN,emby-cf.plusmedia.site ,Emby
+DOMAIN,emby.xeton.dev,Emby
+DOMAIN,jellyfin.xeton.dev,Emby
+DOMAIN,movie.xeton.dev,Emby
+DOMAIN,servers.xeton.dev,Emby
+# > 流媒体emby-Otaku体验服
+DOMAIN,emby.ok.edu.hk,Emby
+DOMAIN,emby.neko.edu.rs ,Emby
+DOMAIN,pub1.emby.wtf,Emby
+DOMAIN,pub1cf.emby.wtf,Emby
+# > 流媒体emby-jmsooo体验服
+DOMAIN,agahk1.jmsooo.com,Emby
+DOMAIN,agasg1.jmsooo.com,Emby
+DOMAIN,agajp1.jmsooo.com,Emby
+DOMAIN,aws.jmsooo.com,Emby
+DOMAIN,ntt1.jmsooo.com,Emby
+DOMAIN,hinet.jmsooo.com,Emby
+DOMAIN,cf1.jmsooo.com,Emby
