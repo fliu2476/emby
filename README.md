@@ -1,6 +1,6 @@
 &nbsp;
 <p align="center">
-  <img src="https://raw.sevencdn.com/echoops/emby/main/Emby.png" width="120px" alt="Emby" />
+  <img src="https://raw.sevencdn.com/fliu2476/emby/main/Emby.png" width="120px" alt="Emby" />
 </p>
 <h3 align="center">
    Your personal media on any device.
@@ -12,13 +12,13 @@
 * Quantumult X
 ```ini
 [policy]
-static=Emby, direct, proxy, img-url=https://raw.githubusercontent.com/echoops/emby/main/IconSet/Emby.png
+static=Emby, direct, proxy, img-url=https://raw.githubusercontent.com/fliu2476/emby/main/IconSet/Emby.png
 
 [filter_remote]
-https://raw.githubusercontent.com/echoops/emby/main/Filter/Emby.list, tag=Emby, update-interval=86400, enabled=true
+https://raw.githubusercontent.com/fliu2476/emby/main/Filter/Emby.list, tag=Emby, update-interval=86400, enabled=true
 
 [rewrite_remote]
-https://raw.githubusercontent.com/echoops/limitless/main/QuantumultX/Rewrite/emby.qxrewrite, tag=Emby Premiere, update-interval=86400, enabled=true
+https://raw.githubusercontent.com/fliu2476/limitless/main/QuantumultX/Rewrite/emby.qxrewrite, tag=Emby Premiere, update-interval=86400, enabled=true
 ```
 
 * Surge
@@ -35,7 +35,7 @@ Proxy = select, Airport
 Airport = select, policy-path=机场订阅地址
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/echoops/emby/main/Ruleset/Emby.list,Emby
+RULE-SET,https://raw.githubusercontent.com/fliu2476/emby/main/Ruleset/Emby.list,Emby
 ```
 
 * Loon
@@ -50,7 +50,7 @@ PROXY = select, Airport
 Emby = select, DIRECT, PROXY
 
 [Remote Rule]
-https://raw.githubusercontent.com/echoops/emby/main/Ruleset/Emby.list, policy=Emby, tag=Emby, enabled=true
+https://raw.githubusercontent.com/fliu2476/emby/main/Ruleset/Emby.list, policy=Emby, tag=Emby, enabled=true
 ```
 
 &nbsp; 
